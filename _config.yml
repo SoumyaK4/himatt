@@ -23,8 +23,8 @@ long-title: Matt Grey Design
 email: mattgreydesign@gmail.com
 description: "The selected portfolio of London based digital product designer Matt Grey"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://himatt.com" # the base hostname & protocol for your site
-timezone: Europe/London
+url: "https://soumyak4.in/himatt" # the base hostname & protocol for your site
+timezone: Asia/Calcutta
 year: 2021
 start-year: 2010
 sitemap: true
